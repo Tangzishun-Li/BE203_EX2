@@ -1,2 +1,3 @@
-# Google_Machine_Learning
-学习谷歌机器学习的仓库
+# 进度
+
+2.15 识别x和o
