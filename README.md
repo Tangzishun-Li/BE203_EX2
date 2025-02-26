@@ -10,5 +10,7 @@ lab3
 lab4
 2.20 Upload lab4(翻译版)
      Upload 两个手势识别
-     
+
+
+2.26 Upload 三个手势的model.h 和 motion_recognition.ipynb 加三个csv
 
