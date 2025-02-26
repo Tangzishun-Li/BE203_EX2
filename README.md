@@ -16,7 +16,7 @@ omit
 2.26 三个手势的model.h 
      motion_recognition.ipynb 
      三个csv记录文件
-     （HINT for three_gesture :** just modify 
+     （HINT  for  three_gesture :  *just modify* 
      ``` 
           GESTURES = [
          "punch",
@@ -29,8 +29,7 @@ omit
          "flex",
          "wave",]
      ```
-     
+ 
 
-
-               ） 
+      
 
