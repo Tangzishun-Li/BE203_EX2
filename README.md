@@ -37,5 +37,6 @@ motion_recognition.ipynb
      ```
  )
 
-      
-
+## lab5      
+### 2.27 
+lab5（翻译版）
