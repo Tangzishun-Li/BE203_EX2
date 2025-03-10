@@ -40,3 +40,12 @@ motion_recognition.ipynb
 ## lab5      
 ### 2.27 
 lab5（翻译版）
+
+
+## lab6
+
+lab6(翻译版)
+
+## lab7
+### 3.10
+lab7（翻译版）
